@@ -28,10 +28,17 @@ public class Main
 	     {
 	     	find(arr1,arr2,i);
 	     }
-		}
+		} 
+		System.out.print("arr1[");
 		for(int i=0;i<a;i++)
 		{
-		System.out.println(arr1[i]+" "+arr2[i]);
+		System.out.print(arr1[i]+" ");
 		}
+		System.out.print("]-arr2[");
+		for(int i=0;i<a;i++)
+		{
+		System.out.print(arr2[i]+" ");
+		}
+		System.out.print("]");
 	}
 }
