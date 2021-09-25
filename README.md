@@ -14,8 +14,7 @@ output-arr1[12 13 14 15 19]-arr2[22 34 57 69 40]
  
  input- cat batMan latt matter cat matter cat cat latt latt Mat Mat Mat Mat Mat
  
- 
-          3
+           3
 
 
 output-Mat cat latt
